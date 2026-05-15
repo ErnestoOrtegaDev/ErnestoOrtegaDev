@@ -11,14 +11,13 @@
 ### 🚀 Featured Projects
 
 **SUUDAI AQUAPONIC**
-*Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, real-time parameter reading using IoT technologies, and automated PDF generation for inventory movement (Kardex)*
+*Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, real-time parameter reading using IoT technologies, and automated PDF generation for inventory movement (Kardex).*
 
 **RenovatioGC**
 *Project management and administration system for architectural firms, featuring integrated dynamic web advertising.*
 
 **DiaClinic**  
-*Web Application for clinical management, focused on the monitoring and 
-preventive management of early-stage diabetes*
+*Web Application for clinical management, focused on the monitoring and preventive management of early-stage diabetes.*
 
 **FarmaVida**
 *Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.*
@@ -52,22 +51,27 @@ preventive management of early-stage diabetes*
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_APEX-white?style=for-the-badge&logo=oracle&logoColor=red" />
-  <img src="https://img.shields.io/badge/SAS-007CC0?style=for-the-badge&logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
+### 📚 Currently Learning
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ErnestoOrtegaDev&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoOrtegaDev&layout=compact&theme=radical&hide_border=true" />
-</p>
+* Cloud Architecture with **AWS**.
+
+* Data analysis and management with **SAS**.
+
+* Database development using **Oracle APEX**.
+
+* Advanced **Project Management** methodologies.
 
 ---
 
-### 🎨 Beyond the Terminal
-**Technical Drawing:** I create architectural and precision art with **rapidographs**, valuing style and flow over rigid perfection.
-**Gaming:** Exploring survival in **Project Zomboid** or surviving the Raccoon City classics in **Resident Evil**.
+### 🎨 Beyond the terminal
+
+* I enjoy **technical drawing with rapidographs (estilógrafo)**, focusing on style withouth perfection.
+
+* Avid gamer: exploring survival mechanics in **Project Zomboid** or revisiting **Resident Evil** classics.
 
 ---
 *"Logic will get you from A to B. Imagination will take you everywhere."*
