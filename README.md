@@ -1,53 +1,69 @@
-# Hi, I'm Ernesto 👋
+<div align="center">
 
+# Hi, I'm Ernesto 👋
 ### 👨‍💻 Full Stack Developer | IT Engineering Student
-I am a passionate developer focused on building scalable solutions, from real-time monitoring systems to professional management platforms. Currently expanding my expertise in cloud technologies and advanced database administration.
+
+[![Credly Profile](https://img.shields.io/badge/Credly-Verified-orange?style=flat-square&logo=credly)](https://www.credly.com/users/tu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram)](https://instagram.com/tu-usuario)
+[![Lux Experience](https://img.shields.io/badge/Portfolio-Lux%20Experience-blue?style=flat-square)](https://tu-sitio-web.com)
 
 ---
 
 ### 🚀 Featured Projects
 
-* **SUUDAI AQUAPONIC:** Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, real-time parameter reading using IoT technologies, and automated PDF generation for inventory movement (Kardex).
-* **RenovatioGC:** Project management and administration system for architectural firms, featuring integrated dynamic web advertising.
-* **DiaClinic:** Comprehensive web platform for clinical management and healthcare records coordination.
-* **FarmaVida:** Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.
-* **StockMaster:** Inventory management system with secure authentication and automated recovery services.
+**SUUDAI AQUAPONIC**
+*Real-time monitoring & control system for greenhouses. Live feeds + IoT parameter reading.*
+
+**RenovatioGC**
+*Architecture project management system with dynamic web advertising integration.*
+
+**DiaClinic** | **FarmaVida** | **StockMaster**
+*Healthcare management, Android inventory control, and secure stock systems.*
 
 ---
 
 ### 🛠️ Technical Stack
 
 **Backend & Databases**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
 **Frontend & Mobile**
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-**Tools & Learning**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📚 Currently Learning
-* Cloud Architecture with **AWS**.
-* Data analysis and management with **SAS**.
-* Database development using **Oracle APEX**.
-* Advanced **Project Management** methodologies.
+**Infrastructure & Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_APEX-white?style=for-the-badge&logo=oracle&logoColor=red" />
+  <img src="https://img.shields.io/badge/SAS-007CC0?style=for-the-badge&logo=sas&logoColor=white" />
+</p>
 
 ---
 
-### 🎨 Beyond the terminal
-* I enjoy **technical drawing with rapidographs (estilógrafo)**, focusing on style withouth perfection.
-* Avid gamer: exploring survival mechanics in **Project Zomboid** or revisiting **Resident Evil** classics.
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ErnestoOrtegaDev&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoOrtegaDev&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🎨 Beyond the Terminal
+**Technical Drawing:** I create architectural and precision art with **rapidographs**, valuing style and flow over rigid perfection.
+**Gaming:** Exploring survival in **Project Zomboid** or surviving the Raccoon City classics in **Resident Evil**.
 
 ---
 *"Logic will get you from A to B. Imagination will take you everywhere."*
+
+</div>
