@@ -11,13 +11,19 @@
 ### 🚀 Featured Projects
 
 **SUUDAI AQUAPONIC**
-*Real-time monitoring & control system for greenhouses. Live feeds + IoT parameter reading.*
+*Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, real-time parameter reading using IoT technologies, and automated PDF generation for inventory movement (Kardex)*
 
 **RenovatioGC**
-*Architecture project management system with dynamic web advertising integration.*
+*Project management and administration system for architectural firms, featuring integrated dynamic web advertising.*
 
-**DiaClinic** | **FarmaVida** | **StockMaster**
-*Healthcare management, Android inventory control, and secure stock systems.*
+**DiaClinic**  
+*Comprehensive web-based platform for clinical management and the coordination of medical records, focused on the monitoring and preventive management of early-stage diabetes*
+
+**FarmaVida**
+*Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.*
+
+**StockMaster**
+*Inventory management system with secure authentication and automated recovery services.*
 
 ---
 
