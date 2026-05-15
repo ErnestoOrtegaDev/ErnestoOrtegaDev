@@ -3,31 +3,43 @@
 # Hi, I'm Ernesto 👋
 ### 👨‍💻 Full Stack Developer | IT Engineering Student
 
-[![Credly Profile](https://img.shields.io/badge/Credly-Verified-orange?style=flat-square&logo=credly)]([https://www.credly.com/users/tu-usuario](https://www.credly.com/users/ernesto-ortega.91e164a4))
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram)]([https://instagram.com/tu-usuario](https://www.instagram.com/n3to_ort/))
+[![Credly Profile](https://img.shields.io/badge/Credly-Verified-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/ernesto-ortega.91e164a4)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/n3to_ort/)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-**SUUDAI AQUAPONIC**
-*Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, real-time parameter reading using IoT technologies, and automated PDF generation for inventory movement (Kardex).*
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛰️ SUUDAI AQUAPONIC</h4>
+      <p>Real-time monitoring and control system for aquaponic greenhouses. Features live camera feeds, IoT parameter reading, and automated PDF generation (Kardex).</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏗️ RenovatioGC</h4>
+      <p>Project management and administration system for architectural firms, featuring integrated dynamic web advertising.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 DiaClinic</h4>
+      <p>Web Application for clinical management, focused on the monitoring and preventive management of early-stage diabetes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 FarmaVida</h4>
+      <p>Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.</p>
+    </td>
+  </tr>
+</table>
 
-**RenovatioGC**
-*Project management and administration system for architectural firms, featuring integrated dynamic web advertising.*
-
-**DiaClinic**  
-*Web Application for clinical management, focused on the monitoring and preventive management of early-stage diabetes.*
-
-**FarmaVida**
-*Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.*
-
-**StockMaster**
-*Inventory management system with secure authentication and automated recovery services.*
+<p align="center">
+  <b>📦 StockMaster:</b> Inventory management system with secure authentication and automated recovery services.
+</p>
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 **Backend & Databases**
 <p align="center">
@@ -46,34 +58,51 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-**Infrastructure & Learning**
+---
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <ul>
+        <li>☁️ <b>Cloud Architecture</b> with AWS</li>
+        <li>📊 <b>Data analysis</b> with SAS</li>
+        <li>🛠️ <b>Oracle APEX</b> Development</li>
+        <li>💼 <b>Advanced Project Management</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Beyond the Terminal</h3>
+      <ul>
+        <li>🖋️ <b>Technical drawing</b> with rapidographs</li>
+        <li>🧟 <b>Project Zomboid</b> survival</li>
+        <li>☣️ <b>Resident Evil</b> veteran</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErnestoOrtegaDev&show_icons=true&theme=radical&count_private=true&hide_border=true" height="195" />
+    </td>
+    <td align="center" valign="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErnestoOrtegaDev&layout=compact&theme=radical&hide_border=true" height="195" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_APEX-white?style=for-the-badge&logo=oracle&logoColor=red" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestoOrtegaDev&theme=radical&hide_border=true" width="97%" />
 </p>
 
 ---
-### 📚 Currently Learning
 
-* Cloud Architecture with **AWS**.
-
-* Data analysis and management with **SAS**.
-
-* Database development using **Oracle APEX**.
-
-* Advanced **Project Management** methodologies.
-
----
-
-### 🎨 Beyond the terminal
-
-* I enjoy **technical drawing with rapidographs (estilógrafo)**, focusing on style withouth perfection.
-
-* Avid gamer: exploring survival mechanics in **Project Zomboid** or revisiting **Resident Evil** classics.
-
----
 *"Logic will get you from A to B. Imagination will take you everywhere."*
 
 </div>
