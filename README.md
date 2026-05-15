@@ -60,27 +60,29 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Currently Learning</h3>
-      <ul>
-        <li>☁️ <b>Cloud Architecture</b> with AWS</li>
-        <li>📊 <b>Data analysis</b> with SAS</li>
-        <li>🛠️ <b>Oracle APEX</b> Development</li>
-        <li>💼 <b>Advanced Project Management</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Beyond the Terminal</h3>
-      <ul>
-        <li>🖋️ <b>Technical drawing</b> with rapidographs</li>
-        <li>🧟 <b>Project Zomboid</b> survival</li>
-        <li>☣️ <b>Resident Evil</b> veteran</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center" style="border: hidden;">
+    <tr>
+      <td width="50%" valign="top" style="border: hidden;">
+        <h3>📚 Currently Learning</h3>
+        <ul>
+          <li>☁️ <b>Cloud Architecture</b> (AWS)</li>
+          <li>📊 <b>Data Analysis</b> (SAS)</li>
+          <li>🛠️ <b>Oracle APEX</b> Development</li>
+          <li>💼 <b>Project Management</b></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" style="border: hidden;">
+        <h3>🎨 Beyond the Terminal</h3>
+        <ul>
+          <li>🖋️ <b>Technical drawing</b> with rapidographs.</li>
+          <li>🎮 <b>Casual Gamer:</b> Enjoying Minecraft, PZ, and The Witcher.</li>
+          <li>🏎️ <b>Fan of</b> Resident Evil and Need for Speed series.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -102,7 +104,7 @@
 </p>
 
 ---
-
+<p align="center">
 *"Logic will get you from A to B. Imagination will take you everywhere."*
-
+</p>
 </div>
