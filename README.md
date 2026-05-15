@@ -17,7 +17,7 @@
 *Project management and administration system for architectural firms, featuring integrated dynamic web advertising.*
 
 **DiaClinic**  
-*Comprehensive web-based platform for clinical management and the coordination of medical records, focused on the monitoring and preventive management of early-stage diabetes*
+*Web Application for clinical management, focused on the monitoring and preventive management of early-stage diabetes*
 
 **FarmaVida**
 *Native Android application (Kotlin + Jetpack Compose) for pharmaceutical stock control.*
