@@ -3,9 +3,8 @@
 # Hi, I'm Ernesto 👋
 ### 👨‍💻 Full Stack Developer | IT Engineering Student
 
-[![Credly Profile](https://img.shields.io/badge/Credly-Verified-orange?style=flat-square&logo=credly)](https://www.credly.com/users/tu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram)](https://instagram.com/tu-usuario)
-[![Lux Experience](https://img.shields.io/badge/Portfolio-Lux%20Experience-blue?style=flat-square)](https://tu-sitio-web.com)
+[![Credly Profile](https://img.shields.io/badge/Credly-Verified-orange?style=flat-square&logo=credly)]([https://www.credly.com/users/tu-usuario](https://www.credly.com/users/ernesto-ortega.91e164a4))
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram)]([https://instagram.com/tu-usuario](https://www.instagram.com/n3to_ort/))
 
 ---
 
